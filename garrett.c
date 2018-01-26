@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
 	
-	printf("Garrett\n");
+	printf("Garrett and Tim\n");
 
 return 0;
 }
